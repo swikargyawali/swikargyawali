@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, This is Swikar Gyawali</h1>
-<h3 align="center">Building AI-powered applications and intelligent systems. ⭐</h3>
+<h3 align="center">I build AI agents that automate workflows. ⭐</h3>
 
 - 🔭 I’m currently working on AI Engineering Projects [multi-agent-ai-research-system](https://github.com/swikargyawali/multi-agent-ai-research-system)
 
